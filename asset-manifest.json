@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/zabarullah/robofriends-app-hooks.git/static/css/main.dab635f0.chunk.css",
-    "main.js": "/zabarullah/robofriends-app-hooks.git/static/js/main.b9b5c838.chunk.js",
-    "main.js.map": "/zabarullah/robofriends-app-hooks.git/static/js/main.b9b5c838.chunk.js.map",
-    "runtime-main.js": "/zabarullah/robofriends-app-hooks.git/static/js/runtime-main.a0a5bb47.js",
-    "runtime-main.js.map": "/zabarullah/robofriends-app-hooks.git/static/js/runtime-main.a0a5bb47.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/zabarullah/robofriends-app-hooks.git/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.197f4694.chunk.js": "/zabarullah/robofriends-app-hooks.git/static/js/2.197f4694.chunk.js",
-    "static/js/2.197f4694.chunk.js.map": "/zabarullah/robofriends-app-hooks.git/static/js/2.197f4694.chunk.js.map",
-    "static/js/3.4e91b2f0.chunk.js": "/zabarullah/robofriends-app-hooks.git/static/js/3.4e91b2f0.chunk.js",
-    "static/js/3.4e91b2f0.chunk.js.map": "/zabarullah/robofriends-app-hooks.git/static/js/3.4e91b2f0.chunk.js.map",
-    "index.html": "/zabarullah/robofriends-app-hooks.git/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/zabarullah/robofriends-app-hooks.git/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.dab635f0.chunk.css.map": "/zabarullah/robofriends-app-hooks.git/static/css/main.dab635f0.chunk.css.map",
-    "static/js/2.197f4694.chunk.js.LICENSE.txt": "/zabarullah/robofriends-app-hooks.git/static/js/2.197f4694.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/zabarullah/robofriends-app-hooks.git/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/robofriends-app-hooks/static/css/main.075f2cab.chunk.css",
+    "main.js": "/robofriends-app-hooks/static/js/main.b9b5c838.chunk.js",
+    "main.js.map": "/robofriends-app-hooks/static/js/main.b9b5c838.chunk.js.map",
+    "runtime-main.js": "/robofriends-app-hooks/static/js/runtime-main.cf2e5041.js",
+    "runtime-main.js.map": "/robofriends-app-hooks/static/js/runtime-main.cf2e5041.js.map",
+    "static/css/2.a7eaedc6.chunk.css": "/robofriends-app-hooks/static/css/2.a7eaedc6.chunk.css",
+    "static/js/2.197f4694.chunk.js": "/robofriends-app-hooks/static/js/2.197f4694.chunk.js",
+    "static/js/2.197f4694.chunk.js.map": "/robofriends-app-hooks/static/js/2.197f4694.chunk.js.map",
+    "static/js/3.4e91b2f0.chunk.js": "/robofriends-app-hooks/static/js/3.4e91b2f0.chunk.js",
+    "static/js/3.4e91b2f0.chunk.js.map": "/robofriends-app-hooks/static/js/3.4e91b2f0.chunk.js.map",
+    "index.html": "/robofriends-app-hooks/index.html",
+    "static/css/2.a7eaedc6.chunk.css.map": "/robofriends-app-hooks/static/css/2.a7eaedc6.chunk.css.map",
+    "static/css/main.075f2cab.chunk.css.map": "/robofriends-app-hooks/static/css/main.075f2cab.chunk.css.map",
+    "static/js/2.197f4694.chunk.js.LICENSE.txt": "/robofriends-app-hooks/static/js/2.197f4694.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends-app-hooks/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0a5bb47.js",
-    "static/css/2.6d7c7915.chunk.css",
+    "static/js/runtime-main.cf2e5041.js",
+    "static/css/2.a7eaedc6.chunk.css",
     "static/js/2.197f4694.chunk.js",
-    "static/css/main.dab635f0.chunk.css",
+    "static/css/main.075f2cab.chunk.css",
     "static/js/main.b9b5c838.chunk.js"
   ]
 }
